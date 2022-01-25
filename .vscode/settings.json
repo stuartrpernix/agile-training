@@ -1,0 +1,18 @@
+{
+  "editor.detectIndentation": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.formatOnSave": true,
+  "prettier.jsxBracketSameLine": true,
+  "[javascript, typescript, html]": {
+    // disable prettier
+    "editor.defaultFormatter": null,
+    // disable formatting on save
+    "editor.formatOnSave": false
+  },
+  // run eslint --fix on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // always show eslint in the statusbar
+  "eslint.alwaysShowStatus": true,
+}
