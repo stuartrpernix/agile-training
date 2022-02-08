@@ -10,8 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to bowling. Enter the number of players: ");
-            //Console.ReadLine();
+            Console.WriteLine("Welcome to bowling. Enter the number of players:");
+            int numPlayers = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(numPlayers);
         }
     }
 }

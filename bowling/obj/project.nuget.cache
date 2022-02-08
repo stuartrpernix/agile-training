@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5BaQpXZnpC3/5tgHf8QGj/S6Lonrtk8UerEQLC/bDIQbvtqftC4nuVEnMIKcblRZMs6QRSSgR8QK88u/y/8f7g==",
+  "dgSpecHash": "N1owRRPBKw5UIyac8VJs9sobvJ4irwlLPg4eA0OLoRuRQjMfhFhpWO3JSOybIJvEK8CNaVIdL2UGIHVAkpOgEA==",
   "success": true,
-  "projectFilePath": "/Users/williamritossa/Documents/Pernix/agileWorkshop/bowling/bowling.csproj",
+  "projectFilePath": "/Users/williamritossa/Documents/Pernix/agileWorkshop/agile-training/bowling/bowling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

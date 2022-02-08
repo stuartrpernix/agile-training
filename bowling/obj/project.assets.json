@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williamritossa/Documents/Pernix/agileWorkshop/bowling/bowling.csproj",
+      "projectUniqueName": "/Users/williamritossa/Documents/Pernix/agileWorkshop/agile-training/bowling/bowling.csproj",
       "projectName": "bowling",
-      "projectPath": "/Users/williamritossa/Documents/Pernix/agileWorkshop/bowling/bowling.csproj",
+      "projectPath": "/Users/williamritossa/Documents/Pernix/agileWorkshop/agile-training/bowling/bowling.csproj",
       "packagesPath": "/Users/williamritossa/.nuget/packages/",
-      "outputPath": "/Users/williamritossa/Documents/Pernix/agileWorkshop/bowling/obj/",
+      "outputPath": "/Users/williamritossa/Documents/Pernix/agileWorkshop/agile-training/bowling/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/williamritossa/.nuget/NuGet/NuGet.Config"
