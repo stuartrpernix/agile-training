@@ -31,7 +31,7 @@ namespace ConsoleApp1
                 for (int j = 0; i < numPlayers; i++)
                 {  
                     Console.WriteLine("Delivery {0}", j+1);
-                    Console.WriteLine();
+                    Console.WriteLine("Enter " + players[i] + "'s first delivery:");
                 }
             }
         }
